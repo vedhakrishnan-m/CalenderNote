@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  
+}
+.home{
+  background:no-repeat url(https://images.unsplash.com/photo-1565367266304-dcb0415bec5e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGhkJTIwcGhvdG9zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60),url(https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGQlMjBwaG90b3N8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60);
+ 
+   height:100vh;
+   display: flex;
+   align-items: center;
+}
+

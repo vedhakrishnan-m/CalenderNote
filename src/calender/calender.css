@@ -1,0 +1,25 @@
+.datecard {
+  padding: 5px;
+  min-width: 500px;
+
+  background: black
+    url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shaqi_jrvej.jpg/1200px-Shaqi_jrvej.jpg");
+}
+.datecard1 {
+  background: rgb(236, 223, 223);
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 6px;
+}
+.tittle {
+  background: red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  gap: 4px;
+  font: 30px serif;
+
+  border: rgb(254, 250, 250) double 10px;
+}
